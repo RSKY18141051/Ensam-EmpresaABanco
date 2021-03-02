@@ -1,0 +1,24 @@
+< THE SYMBOL TABLE >  empresa a banco.com_  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+ABRIR                    	00100     	-1        	LABEL     	(NOSEG)   
+LEER                     	0010E     	-1        	LABEL     	(NOSEG)   
+LIMPIA                   	00125     	-1        	LABEL     	(NOSEG)   
+ABRIR2                   	00136     	-1        	LABEL     	(NOSEG)   
+LEER2                    	00147     	-1        	LABEL     	(NOSEG)   
+ERROR1                   	00160     	-1        	LABEL     	(NOSEG)   
+ERROR2                   	00167     	-1        	LABEL     	(NOSEG)   
+FIN                      	0016E     	-1        	LABEL     	(NOSEG)   
+ARCHIVO                  	00177     	1         	VAR       	(NOSEG)   
+ARCHIVO2                 	0018F     	1         	VAR       	(NOSEG)   
+HANDLER                  	001A6     	2         	VAR       	(NOSEG)   
+FRAGMENTO                	001A8     	1         	VAR       	(NOSEG)   
+FRAGMENTO2               	0026A     	1         	VAR       	(NOSEG)   
+LIMPIAR                  	00365     	1         	VAR       	(NOSEG)   
+MSGERROR1                	00427     	1         	VAR       	(NOSEG)   
+MSGERROR2                	0044C     	1         	VAR       	(NOSEG)   
+===================================================================================================
+[ 17/11/2020  --  03:49:31 p. m. ] 
+< END >
+ 
